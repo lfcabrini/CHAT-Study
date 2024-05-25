@@ -1,2 +1,2 @@
-# CHAT-Study
+# CHAT
  
